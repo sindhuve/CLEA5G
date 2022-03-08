@@ -1,0 +1,3 @@
+[submodule "CLEA5G"]
+	path = CLEA5G
+	url = https://github.com/shvatsal/CLEA5G.git
